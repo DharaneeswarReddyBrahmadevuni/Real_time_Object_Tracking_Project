@@ -30,7 +30,3 @@ while True:
 cap.release()
 cv2.destroyAllWindows()    
 
-
-lower_blue = np.array([110,50,50])
-upper_blue = np.array([130,255,255])
- 
